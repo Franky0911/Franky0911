@@ -70,4 +70,4 @@ SHAP • LIME • PDP • ICE
 
 ---
 
-⭐️ *Thanks for visiting my GitHub! Feel free to check out my projects and reach out if you’d like to collaborate or chat about AI.*  
+⭐️ *Thanks for visiting my GitHub! 
