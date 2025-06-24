@@ -58,7 +58,7 @@ SHAP • LIME • PDP • ICE
 ### 📫 Let's Connect
 
 - 📧 Email: [franklinjamestqr@gmail.com](mailto:franklinjamestqr@gmail.com)
-- 🌐 LinkedIn: *[Add link here if you want]*
+- 🌐 LinkedIn: [Franklin James](https://www.linkedin.com/in/franklin-james-a19726281/)
 
 ---
 
