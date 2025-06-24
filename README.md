@@ -50,9 +50,8 @@ SHAP • LIME • PDP • ICE
 
 ### 📈 What I'm Working On
 
-- 🔬 A robust & explainable Traffic Sign Recognition system using YOLO, EfficientNet, and XAI tools like Grad-CAM & SHAP.
-- 🧠 Projects combining deep learning and interpretability to create safer, smarter AI.
-- 📊 Streamlit dashboards and FastAPI-powered ML apps.
+- 🧪 Exploring innovative project ideas in Machine Learning, Deep Learning, and Explainable AI.
+- 📚 Constantly learning, researching, and prototyping new AI-driven solutions to real-world problems
 
 ---
 
